@@ -1,0 +1,5 @@
+module.exports = {
+  ADD_ITEM: 'ADD_ITEM',
+  EDIT_ITEM_AT: 'EDIT_ITEM_AT',
+  DELETE_ITEM_AT: 'DELETE_ITEM_AT'
+}
